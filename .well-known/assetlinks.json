@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aigens.subwaysg",
+    "sha256_cert_fingerprints":
+    ["15:5F:7C:7D:43:24:D5:83:67:99:2D:ED:BF:2B:94:83:AB:19:15:16:6A:06:AE:A7:6B:B6:8B:F7:C9:15:4F:B9"]
+  }
+}]
